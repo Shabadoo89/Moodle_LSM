@@ -1,0 +1,23 @@
+In here I've compiled a list of helpful links to get us started downloading the important files and programs we'll be using.
+*********************************************************
+
+Download site for GitHub Desktop application
+https://desktop.github.com/
+
+
+Full documentation for how to add the official Moodle LSM to a web directory
+https://docs.moodle.org/34/en/Installing_Moodle
+
+
+Full documentation for software requirements for the official Moodle LSM
+https://docs.moodle.org/dev/Moodle_3.4_release_notes
+
+
+Shabadoo89/Moodle_LSM Wiki
+Home: https://github.com/Shabadoo89/Moodle_LSM/wiki
+
+How to clone this repository: https://github.com/Shabadoo89/Moodle_LSM/wiki/How-to-clone-this-repository
+
+How to get GitHub Desktop: https://github.com/Shabadoo89/Moodle_LSM/wiki/How-to-get-GitHub-Desktop
+
+My main concern right now is just learning to set up a web server even if it is local. If anybody has any idea on how to do this please let us know. Thank you.
